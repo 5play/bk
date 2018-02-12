@@ -1,1 +1,1 @@
-{"serverip":"123.30.238.216","file-server-ip":"xplaygame.mobi","serverport":"19090"}
+{"serverip":"1.53.252.35","file-server-ip":"1.53.252.35","serverport":"19090"}
